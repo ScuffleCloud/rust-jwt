@@ -1,11 +1,11 @@
 [package]
-name = "jwt"
-version = "0.16.0"
+name = "jwt-next"
+version = "0.17.0"
 authors = ["Michael Yang <mikkyangg@gmail.com>"]
 description = "JSON Web Token library"
-documentation = "https://docs.rs/jwt"
-homepage = "http://github.com/mikkyang/rust-jwt"
-repository = "http://github.com/mikkyang/rust-jwt"
+documentation = "https://docs.rs/jwt-next"
+homepage = "http://github.com/scuffletv/rust-jwt"
+repository = "http://github.com/scuffletv/rust-jwt"
 readme = "README.md"
 keywords = ["JWT", "token", "web"]
 license = "MIT"

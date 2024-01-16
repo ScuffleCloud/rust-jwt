@@ -1,5 +1,5 @@
 use hmac::{Hmac, Mac};
-use jwt::{RegisteredClaims, SignWithKey, VerifyWithKey};
+use jwt_next::{RegisteredClaims, SignWithKey, VerifyWithKey};
 use sha2::Sha256;
 
 fn new_token(user_id: &str, password: &str) -> Result<String, &'static str> {
